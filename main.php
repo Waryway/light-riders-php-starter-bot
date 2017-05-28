@@ -33,7 +33,6 @@ class LightRiderBot {
                     break;
                 case 'update':
                     break;
-                case ''
             }
 
 
